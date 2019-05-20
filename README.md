@@ -12,7 +12,13 @@
 
 ### [Gatling](https://gatling.io/)
 
-目标：下载使用  
+目标：
+
+1. 下载使用，并记录一次浏览行为，进行一次[浏览行为的记录和测试](https://gatling.io/docs/current/quickstart#quickstart)
+
+   使用功能：记录一次浏览行为，使用记录文件进行测试，查看网页版测试报告
+
+2. TODO:使用更多功能/测试自己的server
 
 
 
