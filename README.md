@@ -32,13 +32,14 @@
 ### Docker
 
 - [ ] 入门原理文章,推荐陈皓  
-- [ ] [GO语言、DOCKER 和新技术](https://coolshell.cn/articles/18190.html)  
+- [x] [GO语言、DOCKER 和新技术](https://coolshell.cn/articles/18190.html)  
 - [ ] [DOCKER基础技术：LINUX NAMESPACE（上）](https://coolshell.cn/articles/17010.html)  
 - [ ] [DOCKER基础技术：LINUX NAMESPACE（下）](https://coolshell.cn/articles/17029.html)  
 - [ ] [DOCKER基础技术：LINUX CGROUP](https://coolshell.cn/articles/17049.html)  
 - [ ] [DOCKER基础技术：AUFS](https://coolshell.cn/articles/17061.html)  
 - [ ] [DOCKER基础技术：DEVICEMAPPER](https://coolshell.cn/articles/17200.html)
 
+- [ ] [dockerfile 官方最佳实践](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 ### Shell脚本及命令
 
 ### MySQL
