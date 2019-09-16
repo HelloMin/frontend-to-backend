@@ -1,4 +1,4 @@
-## 入门工作：Load Test
+## 具体工作：Load Test
 
 ### [JMeter](https://jmeter.apache.org/download_jmeter.cgi)
 
@@ -21,7 +21,7 @@
 
 - [ ] 目标：创建项目，写一个web server    
 
-更多：《Spring Boot实战》《Spring技术内幕》  
+更多：《Spring技术内幕》  
 
 ### osgi maven
 
@@ -43,3 +43,8 @@
 ### Shell脚本及命令
 
 ### MySQL
+
+TODO
+1. 基础知识
+Java
+
