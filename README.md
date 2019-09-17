@@ -1,22 +1,14 @@
 <details>
 <summary>Load Test 基本工具学习</summary>
-
+   
 ### [JMeter](https://jmeter.apache.org/download_jmeter.cgi)
-
 目标：
-
 - [ ]  下载使用，并针对网站进行一次[简单的测试](https://howtodoinjava.com/library/jmeter-beginners-tutorial/)
-
-   使用功能：Test Plan, Thread Group, HTTP Request, Listener
 
 ### [Gatling](https://gatling.io/)
 
 目标：
-
 - [ ] 下载使用，并记录一次浏览行为，进行一次[浏览行为的记录和测试](https://gatling.io/docs/current/quickstart#quickstart)
-
-   使用功能：记录一次浏览行为，使用记录文件进行测试，查看网页版测试报告
-
 </details>
 
 <details>
@@ -27,8 +19,6 @@ https://zh.wikipedia.org/wiki/%E5%9F%BA%E4%BA%8E%E5%86%85%E6%A0%B8%E7%9A%84%E8%9
 
 ### lxcfs
 https://www.lijiaocn.com/%E6%8A%80%E5%B7%A7/2019/01/09/kubernetes-lxcfs-docker-container.html
-
-</details>
 
 Data Persistence layer: 
 ### MySQL
